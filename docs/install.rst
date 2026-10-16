@@ -1,6 +1,8 @@
 Installation
 ============
 
+This is my documentation change :)
+
 You will need Python 3.12 or later and a local copy of this repository.
 Open a terminal in the repository directory, where ``pyproject.toml`` is located.
 
