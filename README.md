@@ -10,7 +10,7 @@ Over the course you will use free cloud services to automate:
 - checking that public functions are documented
 - documentation generation and deployment
 
-## The package
+## The package:
 
 ```text
 src/ci_course/
