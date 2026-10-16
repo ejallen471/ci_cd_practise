@@ -50,6 +50,7 @@ testpaths = ["tests"]
 
 [tool.coverage.run]
 source = ["ci_course"]
+branch = true
 
 [tool.setuptools.package-data]
 ci_course = ["data/*.csv"]
