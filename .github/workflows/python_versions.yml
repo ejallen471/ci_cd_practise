@@ -13,7 +13,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        python-version: ["3.12", "3.13", "3.14"]
+        python-version: ["3.12", "3.13", "3.14"] # if you add 3.8 or something here, must change in the pyprojext.toml, provided it is actually supported, otherwise do not put it in the matrix
 
     steps:
       - uses: actions/checkout@v7
