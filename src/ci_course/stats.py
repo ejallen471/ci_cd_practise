@@ -41,7 +41,7 @@ def summarise(values):
 
 def count_missing(values):
     """
-    Counts the number of missing values (NaNs) in values
+    Count the number of missing values (NaNs) in values.
 
     Parameters
     ----------

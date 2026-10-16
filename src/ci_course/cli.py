@@ -7,7 +7,6 @@ from .stats import summarise_all
 
 def main(argv=None):
     """
-    This is my Change
     Summarise a CSV file of measurements.
 
     Parameters
