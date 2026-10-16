@@ -5,7 +5,6 @@ from .io import load_measurements
 from .report import format_report, write_report
 from .stats import summarise_all
 
-
 def main(argv=None):
     """
     Summarise a CSV file of measurements.
