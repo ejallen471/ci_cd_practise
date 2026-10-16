@@ -1,12 +1,15 @@
+.. CI/CD Practise documentation master file, created by
+   sphinx-quickstart on Fri Oct 16 14:01:04 2026.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
 CI/CD Practise documentation
 ============================
 
-``ci_course`` loads measurements from CSV files, calculates summary statistics,
-and writes plain-text reports. This small Python package accompanies the
-continuous integration course.
+Add your content using ``reStructuredText`` syntax. See the
+`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
+documentation for details.
 
-Start with :doc:`install`, then follow :doc:`quickstart` to process the bundled
-sample data. See :doc:`reference` for the available functions.
 
 .. toctree::
    :maxdepth: 2
